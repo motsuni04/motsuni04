@@ -8,5 +8,5 @@
 
 ## PS
 ![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=motsuni04)  
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=motsuni04&theme=warm)
+<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=motsuni04&theme=warm) -->
 
