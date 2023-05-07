@@ -7,6 +7,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## PS
-![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=motsuni04)  
+<!-- ![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=motsuni04) -->
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=motsuni04&theme=warm) -->
-
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=motsuni04)
